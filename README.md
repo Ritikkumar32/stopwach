@@ -1,2 +1,2 @@
 # stopwach
-my first prigram 
+my first program 
